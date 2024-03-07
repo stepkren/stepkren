@@ -1,7 +1,8 @@
 # Hello, nice to meet you! 🫡
 
-I'm a student learning to become a software engineer from the Czech republic.\n
-Languages and tools:
+I'm a student learning to become a software engineer from the Czech republic.
+
+Languages, skills and tools:
 - Git
 - SQL
 - Java
