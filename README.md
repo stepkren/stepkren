@@ -1,6 +1,6 @@
 # Hello, nice to meet you! 🫡
 
-I'm a student learning to become a software engineer from the Czech republic.
+I'm a student learning to become a software engineer from the Czech republic.\n
 Languages and tools:
 - Git
 - SQL
