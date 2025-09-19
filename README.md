@@ -8,7 +8,7 @@ Languages, skills and tools:
 - Java
 - C
 - C++
-- DevOps
+- DevOps basics
 - a little bit of Racket and Prolog
 
 I'm anxious to learn new stuff that makes me a better programmer.
