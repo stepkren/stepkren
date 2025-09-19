@@ -8,8 +8,11 @@ Languages, skills and tools:
 - Java
 - C
 - C++
+- HTML
+- CSS
+- JavaScript/TypeScript
+- Ruby basics
 - DevOps basics
 - a little bit of Racket and Prolog
 
 I'm anxious to learn new stuff that makes me a better programmer.
-
